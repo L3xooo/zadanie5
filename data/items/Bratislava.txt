@@ -1,0 +1,8 @@
+sauce 85
+steak 72
+marinade 2
+wine 87
+taco 66
+croissant 36
+nut 76
+curd 57

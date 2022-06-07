@@ -1,0 +1,12 @@
+burger 62
+curd 17
+ice 71
+cocoa 27
+butter 28
+syrup 85
+spice 67
+sauce 90
+wine 93
+yogurt 26
+glaze 19
+steak 23

@@ -1,0 +1,12 @@
+wheat 80
+marinade 27
+filet 68
+entree 71
+cheese 95
+meat 87
+dish 46
+butter 73
+juice 81
+pie 20
+pizza 8
+milk 29

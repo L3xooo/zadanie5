@@ -1,0 +1,10 @@
+wine 63
+rice 22
+curd 18
+wok 56
+ice 2
+pie 71
+taquito 52
+seasoning 51
+wheat 12
+tartar 4

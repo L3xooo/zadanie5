@@ -1,0 +1,8 @@
+caramel 79
+food 72
+rice 8
+dish 72
+salsa 89
+vinegar 41
+dessert 42
+bagel 90

@@ -1,0 +1,5 @@
+noodle 30
+bagel 26
+candy 17
+pie 74
+waffle 20

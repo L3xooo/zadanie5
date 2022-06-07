@@ -1,0 +1,15 @@
+coffee 6
+paste 66
+yeast 6
+cream 99
+drink 81
+croissant 42
+curd 94
+cookie 94
+marinade 84
+taco 62
+ice 56
+bagel 43
+toast 54
+ketchup 50
+vinegar 15

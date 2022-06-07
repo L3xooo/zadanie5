@@ -1,0 +1,9 @@
+kitchen 23
+aroma 57
+nut 49
+soda 27
+cake 27
+salad 23
+lard 83
+caviar 20
+croissant 75

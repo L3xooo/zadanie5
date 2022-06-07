@@ -1,0 +1,10 @@
+wok 6
+queso 20
+juice 43
+56
+olive 97
+cocoa 79
+burger 36
+cider 43
+beans 84
+food 10

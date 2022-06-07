@@ -1,0 +1,16 @@
+wok 33
+cobbler 27
+pasta 29
+butter 94
+eggs 88
+mushroom 50
+mousse 89
+bagel 93
+waffle ABC
+chili 36
+cider 59
+margarine 24
+nut 84
+soup 13
+filet 8
+muffin 50

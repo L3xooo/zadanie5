@@ -1,0 +1,15 @@
+taco 93
+wine 58
+milk 44
+beer 87
+dish 6
+plate 32
+nut 89
+cake 37
+ice 47
+cobbler 86
+vinegar 11
+meat 95
+chili 64
+burrito 36
+entree 34

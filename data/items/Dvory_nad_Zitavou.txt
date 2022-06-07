@@ -1,0 +1,7 @@
+tartar 19
+enchilada 28
+aroma 98
+drink 87
+skillet 31
+taste 87
+butter 75

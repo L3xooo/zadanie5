@@ -1,0 +1,11 @@
+filet 83
+marinade 8
+batter 47
+paste 41
+wok 82
+taste 10
+oil 61
+pudding 35
+dish 18
+yogurt 80
+hamburger 97

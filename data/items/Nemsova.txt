@@ -1,0 +1,5 @@
+queso 42
+dish 65
+biscuit 83
+eggs 78
+lard 75

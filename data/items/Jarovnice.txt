@@ -1,0 +1,17 @@
+cookie 8
+waffle 34
+chimichanga 39
+salad 56
+hamburger 3
+liquor 36
+plate 68
+skillet 94
+muffin 86
+dish 60
+pastry 27
+mayonnaise 81
+batter 69
+syrup 70
+seasoning 54
+oil 2
+olive 3

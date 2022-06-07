@@ -1,0 +1,12 @@
+soy 25
+crumble 53
+cobbler 83
+salsa 38
+meat 23
+margarine 82
+drink 74
+ice 26
+batter 99
+waffle 13
+yeast 6
+wine 58

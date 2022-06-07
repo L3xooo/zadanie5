@@ -1,0 +1,13 @@
+butter 72
+cocoa 68
+dessert 59
+cheese 15
+batter 84
+caramel 38
+margarine 22
+cobbler 21
+food 58
+muffin 8
+poutine 42
+wheat 12
+pot 60

@@ -1,0 +1,14 @@
+glaze 92
+salad 90
+bread 58
+soy 97
+beer 17
+taste 31
+wok 19
+wine 46
+cookie 49
+dessert 39
+sandwich 58
+noodle 6
+cocoa 5
+candy 18

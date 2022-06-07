@@ -1,0 +1,15 @@
+glaze 58
+biscuit 42
+ice 46
+bagel 45
+aroma 2
+nut 52
+cream 49
+cuisine 94
+crumble 51
+mayonnaise 41
+seasoning 83
+soda 83
+taste 80
+chili 20
+steak 28

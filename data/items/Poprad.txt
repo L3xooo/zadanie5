@@ -1,0 +1,5 @@
+queso 21
+coffee 27
+yeast 5
+skillet 63
+batter 78

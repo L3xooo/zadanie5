@@ -1,0 +1,8 @@
+eggs 14
+curd 98
+ketchup 2
+filet 2
+mayo 92
+marinade 30
+water 17
+yogurt 3

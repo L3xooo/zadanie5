@@ -1,0 +1,15 @@
+spice 48
+yogurt 52
+broth 25
+dish 49
+eggs 6
+pizza 25
+banana 15
+lemon 96
+meat 23
+milk 41
+mousse 2
+muffin 63
+mushroom 85
+noodle 63
+nut 12
