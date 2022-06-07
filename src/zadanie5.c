@@ -160,7 +160,6 @@ int main(int argc, char *argv[]){
         buffer = (char*) malloc(50*sizeof(char));
         item_array = (ITEM*) malloc(1*sizeof(ITEM));
         sprintf(buffer, "%s%s%s.txt", ITEMS_FOLDER, PATH_SEPARATOR, db[i].name);
-        // printf("%s\n",buffer);
         items_file = fopen(buffer, "r");
         free(buffer);
 
@@ -236,7 +235,7 @@ int main(int argc, char *argv[]){
         fclose(items_file);
         free(item_array);
 
-    } // tu konci for cycle
+    } 
     free(db);
     return 0;
 }
